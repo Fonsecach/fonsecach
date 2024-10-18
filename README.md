@@ -26,9 +26,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/fonsecach/fonsecach/output/snake.svg" alt="Snake animation" />
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
