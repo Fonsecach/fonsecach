@@ -1,8 +1,8 @@
-<h2 align="left">Hello folks, I'm the Cleiton!</h2>
+<h2 align="center">Hello folks, I'm the Cleiton!</h2>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats </h3>
 
 ###
 
@@ -35,7 +35,7 @@
 </div>
 
 ###
-
+___
 <div align="center">
   <a href="https://open.spotify.com/user/fonsecach">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=fonsecach&count=5&unique=true" alt="Spotify recently played"  />
